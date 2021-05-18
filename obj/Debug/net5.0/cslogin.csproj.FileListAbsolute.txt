@@ -1,0 +1,16 @@
+C:\source\codeworks\Week10\cslogin\obj\Debug\net5.0\cslogin.csprojAssemblyReference.cache
+C:\source\codeworks\Week10\cslogin\obj\Debug\net5.0\cslogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\Week10\cslogin\obj\Debug\net5.0\cslogin.AssemblyInfoInputs.cache
+C:\source\codeworks\Week10\cslogin\obj\Debug\net5.0\cslogin.AssemblyInfo.cs
+C:\source\codeworks\Week10\cslogin\obj\Debug\net5.0\cslogin.csproj.CoreCompileInputs.cache
+C:\source\codeworks\Week10\cslogin\bin\Debug\net5.0\cslogin.exe
+C:\source\codeworks\Week10\cslogin\bin\Debug\net5.0\cslogin.deps.json
+C:\source\codeworks\Week10\cslogin\bin\Debug\net5.0\cslogin.runtimeconfig.json
+C:\source\codeworks\Week10\cslogin\bin\Debug\net5.0\cslogin.runtimeconfig.dev.json
+C:\source\codeworks\Week10\cslogin\bin\Debug\net5.0\cslogin.dll
+C:\source\codeworks\Week10\cslogin\bin\Debug\net5.0\ref\cslogin.dll
+C:\source\codeworks\Week10\cslogin\bin\Debug\net5.0\cslogin.pdb
+C:\source\codeworks\Week10\cslogin\obj\Debug\net5.0\cslogin.dll
+C:\source\codeworks\Week10\cslogin\obj\Debug\net5.0\ref\cslogin.dll
+C:\source\codeworks\Week10\cslogin\obj\Debug\net5.0\cslogin.pdb
+C:\source\codeworks\Week10\cslogin\obj\Debug\net5.0\cslogin.genruntimeconfig.cache
